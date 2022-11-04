@@ -8,3 +8,6 @@
 ## Day 3:2022年11月03号
 rust语法语法快速过了一遍，开始写题
 另外直接开始看[OS-cresting](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
+## Day 4:2022年11月04号
+开始rustlings，题目难度不高，但范围很广，特别是对概念的理解要很深。
+磕磕盼盼做到一半。
